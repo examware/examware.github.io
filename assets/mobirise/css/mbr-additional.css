@@ -539,12 +539,10 @@ h6,
 #header1-1 .mbr-section-lead I {
   font-size: 15px;
 }
-#msg-box3-1e .mbr-section-title,
-#msg-box3-1e p {
-  color: #000;
-}
-#msg-box3-1e .lead P {
-  color: #188651;
+#content1-1h P {
+  text-align: center;
+  color: #077841;
+  font-size: 15px;
 }
 #header1-d .mbr-section-title {
   font-size: 13px;
@@ -565,9 +563,10 @@ h6,
 #header1-d .mbr-section-lead I {
   font-size: 15px;
 }
-#msg-box3-1g .mbr-section-title,
-#msg-box3-1g p {
-  color: #000;
+#content1-1i P {
+  text-align: center;
+  color: #006635;
+  font-size: 15px;
 }
 #header1-19 .mbr-section-title {
   font-size: 13px;
@@ -588,9 +587,10 @@ h6,
 #header1-19 .mbr-section-lead I {
   font-size: 15px;
 }
-#msg-box3-1f .mbr-section-title,
-#msg-box3-1f p {
-  color: #000;
+#content1-1j P {
+  text-align: center;
+  color: #006635;
+  font-size: 15px;
 }
 #features7-b .card-subtitle {
   color: #bcbcbc;
