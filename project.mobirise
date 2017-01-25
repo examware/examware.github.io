@@ -1013,7 +1013,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#767676!important"
+              "color": "#006c38!important"
             }
           },
           "_name": "ext.menu",
@@ -1164,10 +1164,10 @@
               "color": "#ffffff"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@mobirise.com</a>",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@e</a>xamware.in",
           "title1": "Categories",
           "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: knowngate@gmail.com<br>Phone: +91-9657490747<br><br><br><br><strong>Address</strong><br>1234 Street Name<br>Bengaluru, Shivaji Nagar",
+          "text6": "<strong>Contacts</strong><br>Email: support@examware.in<br>Phone: +91-9657490747<br><br><br><br><strong>Address</strong><br><br>Bengaluru, Shivaji Nagar",
           "form": {
             "title": "MESSAGE",
             "action": "knowngate@gmail.com",
