@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "knowngate Services",
+    "name": "examware.in",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -10,7 +10,7 @@
         "secondaryColor": "#26ba72",
         "successColor": "#0079ff",
         "infoColor": "#353535",
-        "warningColor": "#f5bb00",
+        "warningColor": "#fac51c",
         "dangerColor": "#e25041",
         "titleFont": "Open Sans",
         "subtitleFont": "Source Sans Pro",
@@ -22,7 +22,7 @@
     },
     "favicon": "@PROJECT_PATH@/assets/images/examware-128x128-83.png",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-90855337-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "versionFirst": "3.10.4",
     "uniqCompNum": 56,
@@ -268,7 +268,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Online Test Program for IIT-JEE | Rs 499.00 Only</span>",
           "text": "Your Native &amp; Genuine Online Test Portals by Exprienced Educationist.<br>Full Course Prep - 20 Online Test Papers With Solutions.<br>All Chapter Wise Test Included as Bonus.<br><br>Just Enter Your Name, Email id &amp; Mobile Number.<br>We will send Logins account Credentials to your mail id<br>Login here with Your Username &amp; Password.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.instamojo.com/@knowngate/l2722222172f3436192a3d351ad470e82/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY IIT-JEE LOGIN ACCOUNT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.examware.in/onlinetesthub\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LOGIN NOW</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.instamojo.com/@examware/l2722222172f3436192a3d351ad470e82/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY IIT-JEE LOGIN ACCOUNT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.examware.in/onlinetesthub\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LOGIN NOW</a>  "
         },
         {
           "_tags": [
@@ -342,7 +342,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Online Test Program for NEET | Rs 499.00 Only</span>",
           "text": "Your Native &amp; Genuine Online Test Portals by Exprienced Educationist.<br>Full Course Prep - 20 Online Test Papers With Solutions.<br>All Chapter Wise Test Included as Bonus.<br><br>Just Enter Your Name, Email id &amp; Mobile Number.<br>We will send Logins account Credentials to your mail id<br>Login here with Your Username &amp; Password.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.instamojo.com/@knowngate/l3b5c3d2bae8940e0a75d5650c60df182/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY NEET LOGIN ACCOUNT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.examware.in/onlinetesthub\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LOGIN NOW</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.instamojo.com/@examware/l3b5c3d2bae8940e0a75d5650c60df182/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY NEET LOGIN ACCOUNT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.examware.in/onlinetesthub\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LOGIN NOW</a>  "
         },
         {
           "_tags": [
