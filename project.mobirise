@@ -12,8 +12,8 @@
         "infoColor": "#353535",
         "warningColor": "#fac51c",
         "dangerColor": "#e25041",
-        "titleFont": "Open Sans",
-        "subtitleFont": "Source Sans Pro",
+        "titleFont": "Roboto Condensed",
+        "subtitleFont": "Open Sans",
         "textFont": "Roboto Condensed",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -64,8 +64,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -106,9 +106,9 @@
             "bgColor": "#36d488",
             "fontSize": 0.75,
             "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -140,7 +140,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">examware.in</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-d\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>IIT-JEE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-19\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>NEET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-b\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>PAYMENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-b\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\" target=\"_blank\">ABOUT US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contactinfo.html\">CONTACT INFO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"http://www.examware.in/onlinetesthub\" target=\"_blank\">Login Here</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-d\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>IIT-JEE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-19\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>NEET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-b\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>PAYMENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-b\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\" target=\"_blank\">ABOUT US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contactinfo.html\">CONTACT INFO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"http://www.examware.in/onlinetesthub\" target=\"_blank\">Login Here</a></li>"
         },
         {
           "_tags": [
@@ -485,7 +485,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "like",
+              "name": "success",
               "family": "MobiriseIcons",
               "active": true,
               "link": "#top",
@@ -618,9 +618,9 @@
             "bgColor": "#36d488",
             "fontSize": 0.75,
             "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -652,7 +652,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">examware.in</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-d\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>IIT-JEE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-19\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>NEET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-b\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>PAYMENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-b\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\" target=\"_blank\">ABOUT US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contactinfo.html\">CONTACT INFO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"http://www.examware.in/onlinetesthub\" target=\"_blank\">Login Here</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-d\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>IIT-JEE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-19\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>NEET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-b\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>PAYMENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-b\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\" target=\"_blank\">ABOUT US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contactinfo.html\">CONTACT INFO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"http://www.examware.in/onlinetesthub\" target=\"_blank\">Login Here</a></li>"
         },
         {
           "_tags": [
@@ -1022,9 +1022,9 @@
             "bgColor": "#36d488",
             "fontSize": 0.75,
             "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1056,7 +1056,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">examware.in</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-d\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>IIT-JEE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-19\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>NEET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-b\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>PAYMENT INFO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-b\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\" target=\"_blank\">ABOUT US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contactinfo.html\">CONTACT INFO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"http://www.examware.in/onlinetesthub\" target=\"_blank\">Login Here</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-d\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>IIT-JEE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-19\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>NEET</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-b\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>PAYMENT INFO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-b\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\" target=\"_blank\">ABOUT US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contactinfo.html\">CONTACT INFO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"http://www.examware.in/onlinetesthub\" target=\"_blank\">Login Here</a></li>"
         },
         {
           "_tags": [
