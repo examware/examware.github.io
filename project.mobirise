@@ -613,6 +613,7 @@
             }
           },
           "_name": "ext.menu",
+          "_customCSS": ".nav-dropdown .link.dropdown-toggle[aria-expanded=\"true\"] {\n    margin: 0;\n    padding: 2.667em 2.583em 2.667em 1.667em;\n}\n.nav-dropdown .dropdown-menu {\n    padding-bottom: 0.25rem;\n    padding-top: 0.25rem;\n}\n.nav-dropdown .dropdown-submenu {\n    top: 16px;\n}\n.navbar-dropdown {\n    left: 0;\n    padding: 0;\n    right: 0;\n    top: 0;\n    transition: all 0.45s ease;\n    z-index: 1030;\n    border-bottom: 1px solid rgb(8, 170, 91);\n    box-shadow: 0px 0px 20px 0px rgba(144, 144, 144, 0.68);\n    text-shadow: -2px -2px 2px rgba(0, 161, 86, 0.86);\n}",
           "_anchor": "ext_menu-g",
           "_params": {
             "bgColor": "#36d488",
@@ -634,7 +635,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/examware-128x128-24.png",
+              "src": "@PROJECT_PATH@/assets/images/hand-with-pen-filled-100-5-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1017,6 +1018,7 @@
             }
           },
           "_name": "ext.menu",
+          "_customCSS": ".nav-dropdown .link.dropdown-toggle[aria-expanded=\"true\"] {\n    margin: 0;\n    padding: 2.667em 2.583em 2.667em 1.667em;\n}\n.nav-dropdown .dropdown-menu {\n    padding-bottom: 0.25rem;\n    padding-top: 0.25rem;\n}\n.nav-dropdown .dropdown-submenu {\n    top: 16px;\n}\n.navbar-dropdown {\n    left: 0;\n    padding: 0;\n    right: 0;\n    top: 0;\n    transition: all 0.45s ease;\n    z-index: 1030;\n    border-bottom: 1px solid rgb(8, 170, 91);\n    box-shadow: 0px 0px 20px 0px rgba(144, 144, 144, 0.68);\n    text-shadow: -2px -2px 2px rgba(0, 161, 86, 0.86);\n}",
           "_anchor": "ext_menu-g",
           "_params": {
             "bgColor": "#36d488",
@@ -1038,7 +1040,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/examware-128x128-24.png",
+              "src": "@PROJECT_PATH@/assets/images/hand-with-pen-filled-100-5-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
