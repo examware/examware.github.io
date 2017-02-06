@@ -37,7 +37,7 @@
         "title": "examware.in | IIT-JEE | NEET",
         "meta_descr": "Your Native & Genuine Online Test Portals by Exprienced Educationist. Prepared for all your iitjee & neet study goals. either school exams or competitive exams.",
         "header_custom": "",
-        "footer_custom": "<script async type=\"text/javascript\" src=\"//userlike-cdn-widgets.s3-eu-west-1.amazonaws.com/d84a6b7e574f3143ca5debacf79ab144ff3f557073cbf3a4e85722a40172473e.js\"></script>\n",
+        "footer_custom": "<script>\n  window.fbAsyncInit = function() {\n    FB.init({\n      appId      : '1395317550512674',\n      xfbml      : true,\n      version    : 'v2.8'\n    });\n    FB.AppEvents.logPageView();\n  };\n\n  (function(d, s, id){\n     var js, fjs = d.getElementsByTagName(s)[0];\n     if (d.getElementById(id)) {return;}\n     js = d.createElement(s); js.id = id;\n     js.src = \"//connect.facebook.net/en_US/sdk.js\";\n     fjs.parentNode.insertBefore(js, fjs);\n   }(document, 'script', 'facebook-jssdk'));\n</script>\n\n<script async type=\"text/javascript\" src=\"//userlike-cdn-widgets.s3-eu-west-1.amazonaws.com/d84a6b7e574f3143ca5debacf79ab144ff3f557073cbf3a4e85722a40172473e.js\"></script>\n",
         "html_before": ""
       },
       "components": [
