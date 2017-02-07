@@ -25,7 +25,7 @@
     "cookiesAlert": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-90855337-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 70,
+    "uniqCompNum": 71,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -36,7 +36,7 @@
         "main": true,
         "title": "examware.in | IIT-JEE | NEET",
         "meta_descr": "Your Native & Genuine Online Test Portals by Exprienced Educationist. Prepared for all your iitjee & neet study goals. either school exams or competitive exams.",
-        "header_custom": "\n<!-- ManyChat -->\n<script src=\"//widget.manychat.com/1673107836322213.js\" async=\"async\">\n</script>\n<div class=\"mcwidget-embed\" data-widget-id=\"2893\"></div>",
+        "header_custom": "<script type=\"text/javascript\" src=\"https://embed.modernapp.co/chat?code=d4d6769328debeb450d91d3af59f754f\"></script>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -549,7 +549,7 @@
       "settings": {
         "title": "Our Team",
         "meta_descr": "",
-        "header_custom": "\n<!-- ManyChat -->\n<script src=\"//widget.manychat.com/1673107836322213.js\" async=\"async\">\n</script>\n<div class=\"mcwidget-embed\" data-widget-id=\"2893\"></div>",
+        "header_custom": "<script type=\"text/javascript\" src=\"https://embed.modernapp.co/chat?code=d4d6769328debeb450d91d3af59f754f\"></script>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -954,7 +954,7 @@
       "settings": {
         "title": "examware | Banglore",
         "meta_descr": "",
-        "header_custom": "\n<!-- ManyChat -->\n<script src=\"//widget.manychat.com/1673107836322213.js\" async=\"async\">\n</script>\n<div class=\"mcwidget-embed\" data-widget-id=\"2893\"></div>",
+        "header_custom": "<script type=\"text/javascript\" src=\"https://embed.modernapp.co/chat?code=d4d6769328debeb450d91d3af59f754f\"></script>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -1235,7 +1235,7 @@
       "settings": {
         "title": "examware.in",
         "meta_descr": "Comment on Facebook.",
-        "header_custom": "\n<!-- ManyChat -->\n<script src=\"//widget.manychat.com/1673107836322213.js\" async=\"async\">\n</script>\n<div class=\"mcwidget-embed\" data-widget-id=\"2893\"></div>",
+        "header_custom": "<script type=\"text/javascript\" src=\"https://embed.modernapp.co/chat?code=d4d6769328debeb450d91d3af59f754f\"></script>",
         "footer_custom": "",
         "html_before": ""
       },
